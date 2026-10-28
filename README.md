@@ -22,5 +22,3 @@ Installation and Setup
 
 1. Clone the repository and install dependencies (requires flask, flask-cors, joblib, scikit-learn):bash
 pip install -r requirements.txt
-Utilisez le code avec précaution.
-Si vous prévoyez de publier ce projet, je peux également vous aider à rédiger la suite du fichier README en anglais, comme les exemples de requêtes d'API (API request examples) ou les étapes de déploiement (deployment steps). Souhaitez-vous compléter une section en particulier ?
